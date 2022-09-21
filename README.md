@@ -1,4 +1,4 @@
-Hi I am Jayant Behari. I like coding, sound engineering, math, Muay Thai
+Hi I am Jayant Behari. I like Coding, Sound Engineering, Math and Muay Thai
 
 <!---
 Jayantbehari/Jayantbehari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
